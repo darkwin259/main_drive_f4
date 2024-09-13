@@ -3,3 +3,4 @@
 ../Core/Src/ps4.c:59:6:Control_Move	32	static
 ../Core/Src/ps4.c:139:6:Hand_Control	8	static
 ../Core/Src/ps4.c:149:6:sign	24	static
+../Core/Src/ps4.c:162:6:sendingtoesp32	8	static
